@@ -1,0 +1,30 @@
+{
+  "name": "introduction_to_nodejs_npm_express",
+  "version": "1.0.0",
+  "description": "The following repository contains the introduction to nodejs, npm, package management, express and more.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SheCanCODE-Backend-Devs/introduction_to_nodejs_npm_express.git"
+  },
+  "keywords": [
+    "nodejs",
+    "express.js",
+    "introduction",
+    "to",
+    "nodejs",
+    "javascript"
+  ],
+  "author": "Hirwa Jean Eric",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SheCanCODE-Backend-Devs/introduction_to_nodejs_npm_express/issues"
+  },
+  "homepage": "https://github.com/SheCanCODE-Backend-Devs/introduction_to_nodejs_npm_express#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
